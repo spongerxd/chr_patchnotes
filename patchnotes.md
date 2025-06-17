@@ -1,5 +1,3 @@
-# Версия 1.0
-сборка готова и сервер запущен!
+# Версия 1.0 (hotfix 3)
 
-- добавлены: dynamiclights, xaero's world map
-- обновлены: create, create: copycats+ (фиксы багов)
+- добавлен: create: enchantment industry
