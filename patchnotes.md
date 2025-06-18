@@ -1,3 +1,3 @@
-# Версия 1.0 (hotfix 3)
+# Версия 1.0 (hotfix 4)
 
-- добавлен: create: enchantment industry
+- добавлен: Lootr
